@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "babel-preset-stage-2": "^6.24.1"
+  }
+}
